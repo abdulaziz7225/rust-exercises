@@ -1,18 +1,27 @@
 [submodule "atomic_reference_count"]
 	path = atomic_reference_count
 	url = git@github.com:abdulaziz7225/atomic-reference-count.git
-[submodule "multi_threaded_program"]
-	path = multi_threaded_program
-	url = git@github.com:abdulaziz7225/multi-threaded-program.git
+[submodule "build_your_own_shell"]
+	path = build_your_own_shell
+	url = git@github.com:abdulaziz7225/build-your-own-shell-in-rust.git
 [submodule "dynamic_dispatch"]
 	path = dynamic_dispatch
 	url = git@github.com:abdulaziz7225/dynamic-dispatch-in-rust.git
-[submodule "uuid_based_collections"]
-	path = uuid_based_collections
-	url = git@github.com:abdulaziz7225/uuid-based-collections.git
-[submodule "sum_of_squares_of_integers"]
-	path = sum_of_squares_of_integers
-	url = git@github.com:abdulaziz7225/sum-of-squares-of-integers.git
 [submodule "filter_out_even_numbers"]
 	path = filter_out_even_numbers
 	url = git@github.com:abdulaziz7225/filter-out-even-numbers.git
+[submodule "guess_number"]
+	path = guess_number
+	url = git@github.com:abdulaziz7225/guess-number.git
+[submodule "multi_threaded_program"]
+	path = multi_threaded_program
+	url = git@github.com:abdulaziz7225/multi-threaded-program.git
+[submodule "simple_grep"]
+	path = simple_grep
+	url = git@github.com:abdulaziz7225/simple-grep.git
+[submodule "sum_of_squares_of_integers"]
+	path = sum_of_squares_of_integers
+	url = git@github.com:abdulaziz7225/sum-of-squares-of-integers.git
+[submodule "uuid_based_collections"]
+	path = uuid_based_collections
+	url = git@github.com:abdulaziz7225/uuid-based-collections.git
