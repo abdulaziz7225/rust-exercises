@@ -10,6 +10,9 @@
 [submodule "filter_out_even_numbers"]
 	path = filter_out_even_numbers
 	url = git@github.com:abdulaziz7225/filter-out-even-numbers.git
+[submodule "grouping_and_counting"]
+	path = grouping_and_counting
+	url = git@github.com:abdulaziz7225/grouping-and-counting.git
 [submodule "guess_number"]
 	path = guess_number
 	url = git@github.com:abdulaziz7225/guess-number.git

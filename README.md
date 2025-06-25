@@ -15,6 +15,7 @@ Each submodule focuses on a specific Rust concept or technique through clean, pr
 | build_your_own_shell       | Learn to build a simple shell in Rust                                          | [View on GitHub](https://github.com/abdulaziz7225/build-your-own-shell-in-rust/tree/main) |
 | dynamic_dispatch           | Dynamic dispatch pattern in Rust                                               | [View on GitHub](https://github.com/abdulaziz7225/dynamic-dispatch-in-rust/tree/main)     |
 | filter_out_even_numbers    | Filter odd numbers from integer lists in procedural and functional programming | [View on GitHub](https://github.com/abdulaziz7225/filter-out-even-numbers/tree/main)      |
+| grouping_and_counting      | Count and group string by length                                               | [View on GitHub](https://github.com/abdulaziz7225/grouping-and-counting/tree/main)        |
 | guess_number               | Simple number guessing game                                                    | [View on GitHub](https://github.com/abdulaziz7225/guess-number/tree/main)                 |
 | multi_threaded_program     | Rust multi-threading examples                                                  | [View on GitHub](https://github.com/abdulaziz7225/multi-threaded-program/tree/main)       |
 | simple_grep                | Simple grep implementation in Rust                                             | [View on GitHub](https://github.com/abdulaziz7225/simple-grep/tree/main)                  |
